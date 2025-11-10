@@ -47,10 +47,6 @@ Follow these steps to get the project up and running on your local machine.
         ```
     -   Install the required npm packages:
         ```bash
-        npm install lucide-react
-        npm install axios
-        npm install -D tailwindcss postcss autoprefixer
-        npx tailwindcss init -p
         npm install
 
         ```
