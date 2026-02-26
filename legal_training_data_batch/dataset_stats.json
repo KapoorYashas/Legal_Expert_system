@@ -1,0 +1,10 @@
+{
+  "total": 5509,
+  "train": 4956,
+  "val": 553,
+  "created_at": "2026-02-26T20:08:56.986806",
+  "source_batches": [
+    "legal_training_data_batch1",
+    "legal_training_data_batch2"
+  ]
+}
